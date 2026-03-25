@@ -1,0 +1,21 @@
+# Internal project files
+.agency/
+.claude/
+.playwright-mcp/
+project/
+screenshots/
+
+# Environment & secrets
+.env
+
+# Build artifacts
+src.zip
+
+# Internal docs
+GUIDE.md
+concept.md
+deploy.sh
+
+# Root-level screenshots (keep src/img/)
+/*.png
+/*.jpeg
